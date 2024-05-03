@@ -3,6 +3,42 @@
 
 </div>
 
+## Tools Used
+
+<div align="center" style="display: flex; flex-wrap: wrap;">
+    <div style="width: 25%;">
+        <img src="public/icons/github.png" alt="Git" width="50" height="50">
+        <img src="public/icons/aws-ec2.png" alt="EC2" width="50" height="50">
+        <img src="public/icons/docker.png" alt="Docker" width="50" height="50">
+        <img src="public/icons/sonarqube.png" alt="SonarQube" width="50" height="50">
+        <img src="public/icons/trivy.png" alt="Trivy FS Scan" width="50" height="50">
+        <img src="public/icons/jenkins.png" alt="Jenkins" width="50" height="50">
+        <img src="public/icons/prometheus.png" alt="Prometheus" width="50" height="50">
+        <img src="public/icons/Grafana.png" alt="Grafana" width="50" height="50">
+        <img src="public/icons/owasp.png" alt="OWASP Dependency Check Tool" width="50" height="50">
+        <img src="public/icons/kubernetes.png" alt="Kubernetes" width="50" height="50">
+        <img src="public/icons/argocd.png" alt="ArgoCD" width="50" height="50">
+    </div>    
+</div>
+
+<br>
+
+- **GitHub**: Version control system used for tracking changes in the codebase.
+- **EC2**: Amazon Elastic Compute Cloud for scalable computing capacity.
+- **Docker**: Containerization platform for building, shipping, and running applications.
+- **SonarQube**: Continuous inspection tool for code quality.
+- **Trivy FS Scan**: Container image vulnerability scanner.
+- **Jenkins**: Automation server for continuous integration and delivery.
+- **Prometheus**: Monitoring and alerting toolkit.
+- **Grafana**: Observability platform for analytics and monitoring.
+- **OWASP Dependency Check Tool**: Detects and reports vulnerable dependencies.
+- **Kubernetes**: Container orchestration platform for automating deployment, scaling, and management.
+- **ArgoCD**: GitOps continuous delivery tool for Kubernetes.
+
+<br>
+
+## Working Snapshots
+
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;"">
     <img src="./public/assets/Jenkins Pipeline.png" alt="" height="40%" width="40%">
     <img src="./public/assets/Jenkins Pipeline Passed.png" alt="" height="40%" width="40%">
