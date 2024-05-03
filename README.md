@@ -1,42 +1,17 @@
-<div align="center" style="display: flex; flex-direction: column;">
-    <div>
-        <img src="./public/assets/DevSecOps.png" alt="Logo" width="50%" height="50%">
-    </div>
+<div align="center">
+    <img src="./public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
 
-    <div>
-        <img src="./public/assets/netflix-logo.png" alt="Logo" width="50" height="32">
-    </div>
-
-    <div>
-        <img src="./public/assets/Jenkins Pipeline.png" alt="">
-    </div>
-
-    <div>
-        <img src="./public/assets/Jenkins Pipeline Passed.png" alt="">
-    </div>
-
-    <div>
-        <img src="./public/assets/SonarQube.png" alt="">
-    </div>
-
-    <div>
-        <img src="./public/assets/Prometheus.png" alt="">
-    </div>
-
-    <div>
-        <img src="./public/assets/EC2-Performance-Dashboard-Grafana.png" alt="">
-    </div>
-
-    <div>
-        <img src="./public/assets/Jenkins Performance-Grafana.png" alt="">
-    </div>
-
-    <div>
-        <img src="./public/assets/" alt="">
-    </div>
-    
-  
 </div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;"">
+    <img src="./public/assets/Jenkins Pipeline.png" alt="" height="40%" width="40%">
+    <img src="./public/assets/Jenkins Pipeline Passed.png" alt="" height="40%" width="40%">
+    <img src="./public/assets/SonarQube.png" alt="" height="40%" width="40%">
+    <img src="./public/assets/Prometheus.png" alt="" height="40%" width="40%">
+    <img src="./public/assets/EC2-Performance-Dashboard-Grafana.png" alt="" height="40%" width="40%">
+    <img src="./public/assets/Jenkins Performance-Grafana.png" alt="" height="40%" width="40%">
+</div>
+
 
 <br />
 
